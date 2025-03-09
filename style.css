@@ -1,0 +1,82 @@
+
+h1#hav1{
+font-size: 70px;
+padding-left: 10px;
+padding-bottom: 20px;
+}
+
+h1{
+font-size: 40px;
+position: relative; top: 10px;
+word-spacing:100px;
+margin-left:10px;
+padding-left:150px;
+text-shadow: 5px 0 5px #117197ef;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+ background-image: url(https://avatars.mds.yandex.net/get-mpic/4399709/img_id6665149883115021874.jpeg/orig);
+ background-repeat: no-repeat;
+ background-size:110%;
+}
+
+div#gaf1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
+div#gaf2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+justify-content: space-around;
+    color: white;
+    padding-left: 3%;
+    padding-top: 3%;
+}
+
+header{
+    padding-inline: 8px ;
+}
+
+a{
+    color: white;
+ text-decoration: none;   
+ 
+}
+a:hover{
+    background-color: rgba(99, 99, 99, 0.541);
+}
+img{
+    margin-left: 150px;
+}
+
+svg#cir1{
+   font-weight: 900;
+   margin-left: 120px;
+margin-bottom: 40px;
+  width: 100px;
+}
+
+h2#tup1{
+margin-top: 450px;
+color: rgb(255, 255, 255);
+text-shadow: 5px 5px 5px #3b3b3b;
+}
+
+svg#rut1{
+    color: white;
+}
+svg#rut2{
+    color: white;
+    margin-left: 10px;
+   
+}
+svg{
+    color: white;
+    margin-left:7px ;
+}
