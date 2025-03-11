@@ -1,0 +1,26 @@
+div{
+    background-color: rgb(107, 107, 107);
+    width: 150%;
+  max-width: 400px;
+  margin-right: 100px;
+  margin-bottom: 250px;
+  height: 920px;
+}
+img{
+width: 45%;
+    position: relative;
+}
+
+figcaption{
+    position: relative;
+    left: 150px;
+    bottom: 80px;
+    color: white;
+    width: 120px;
+
+}
+
+
+
+figure { color: #ffffff;  padding: 2px; text-decoration: none; }
+figure:hover {  color: #fff;  background-color: #5a5a5a;  }
