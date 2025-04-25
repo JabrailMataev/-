@@ -1,0 +1,85 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bold;
+color: white;
+}
+header{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+
+menu{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+div{
+    background-color: #b65b80;
+ text-align: start;
+    width: 60%;
+    margin-left: 300px;
+    height: 300px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+p.num1{
+    background-color: #db92af;
+ margin-left: 40px;
+ width: 70%;
+ height: 80px;
+ padding-left: 40px;
+ padding-top: 10px;
+}
+
+p.num2{
+    margin-top:  20px;
+    margin-left: 40px;
+    background-color: #db92af;
+    width: 70%;
+    height: 80px;
+    padding-top: 10px;
+    padding-left:40px ;
+}
+
+footer{
+    background-color:#6e1f3f;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    margin-top: 10px;
+   
+}
+
+div.sar1{
+    width: 10%;
+    height: 40px;
+    margin-left: 50px;
+    position: absolute;
+    top: 175px;
+    padding-bottom: 10px;
+    padding-left:40px ;
+}
+
+div.sar2{
+    width: 10%;
+    height: 100px;
+    margin-left:50px ;
+    position: absolute;
+    top: 280px;
+}
+
+
+div.sar3{
+width: 4%;
+position: absolute;
+top: 170px;
+margin-left: 1500px;
+writing-mode: vertical-lr;
+letter-spacing: 20px;
+text-orientation: upright;
+height: 30%;
+padding-left: 80px;
+padding-right: 20px;
+}
