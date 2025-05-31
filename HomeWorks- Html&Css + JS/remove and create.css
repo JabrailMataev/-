@@ -1,0 +1,14 @@
+div{
+    background-color: #fbf2e9;
+    width: 45%;
+    margin-top: 18%;
+    margin-left: 13%;
+    padding-left: 30%;
+    padding-top: 18%;
+}
+
+section{
+    display: flex;
+    flex-flow: row nowrap;
+justify-content: center;
+}

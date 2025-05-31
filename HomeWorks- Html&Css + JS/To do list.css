@@ -1,0 +1,80 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(177px, 6fr);
+    grid-template-areas: 'pole Search Search Search Lsearch Lsearch'
+    'btn btn2 btn2 father father father';
+    background-color: beige;
+    gap: 2px;
+}
+
+
+#listSearch{
+    margin: 0;
+    grid-area: Lsearch;
+    background-color: beige;
+    border: 2px hidden black;
+    border-radius: 4px;
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 10px;
+    max-height: 10px;
+}
+
+#pole{
+    grid-area: pole;
+    min-width: 165px;
+    max-width: 165px;
+    min-height: 15px;
+    max-height: 15px;
+}
+
+#Search{
+    grid-area: Search;
+    min-width: 165px;
+    max-width: 165px;
+    min-height: 15px;
+    max-height: 15px;
+}
+
+
+#fatherUL{
+    grid-area: father;
+    list-style: none;
+    min-height: 15px;
+    max-height: 15px;
+}
+
+
+a{
+color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: red;
+}
+
+
+p{
+    margin: 0;
+    color: red;
+}
+
+#add{
+    justify-self: left;
+    grid-area: btn;
+    min-width: 100px;
+    max-width: 100px;
+    min-height: 20px;
+    max-height: 20px;
+}
+
+#search{
+    
+    grid-area: btn2;
+    min-width: 100px;
+    max-width: 100px;
+    min-height: 20px;
+    max-height: 20px;
+}
